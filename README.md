@@ -52,6 +52,11 @@ strip down Utils to log()
 
 add includes from Utils.cpp
 
++ MICROBIT FULL
+
+### v0.3.1
+
+add all sources from Utils.cpp
 
 
 
